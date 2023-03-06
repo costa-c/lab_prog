@@ -2,15 +2,6 @@
  * EnumDemo
  */
 public class EnumDemo {
-    // Define two enum types for use in this program.
-
-    enum Day {
-        INVALID, SUNDAY, MONDAY, TUESDAY, WEDNESDAY, THURSDAY, FRIDAY, SATURDAY
-    }
-
-    enum Month {
-        INVALID, JAN, FEB, MAR, APR, MAY, JUN, JUL, AUG, SEP, OCT, NOV, DEC
-    }
 
     public static void main(String[] args) {
         Day tgif; // Declare a variable of type Day.
